@@ -1,21 +1,27 @@
 
+# 🐢 aleister888
 
-<h1 align="center">Hi, I'm aleister</h1>
-<h3 align="center">Just daily driving Linux and OpenBSD</h3>
+**`Just daily driving Linux and OpenBSD`**
 
 - 📫 My mail contact:
   - [cock.li](mailto:aleister888@cock.li)
   - [protonmail](mailto:pacoe1000@protonmail.com)
 
 <h3 align="center">Languages and OS's:</h3>
-<p align="center"> </a> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/latex/latex-original.svg" width="100" height="80"/>
-</a> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/bash/bash-plain.svg" width="80" height="80"/>
-</a> <img src="https://raw.githubusercontent.com/aleister888/freeBSD-dotfiles/master/img/freebsd-logo.png" width="80" height="80"/>
-</a> <img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Puffy-openbsd.gif" width="90" height="80"/>
-</a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="80" height="80"/>
-</a> <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Archlinux-icon-crystal-64.svg" width="80" height="80"/>
-</a> <img src="https://upload.wikimedia.org/wikipedia/commons/0/02/Void_Linux_logo.svg" width="80" height="80"/>
-</a> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/debian/debian-original.svg" width="80" height="80"/> </a> </p>
+
+
+### 🧰 Languages and OS's
+
+<img align="left" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/latex/latex-original.svg"/>
+<img align="left" width="30px" style="padding-right:10px;" src="" />
+<img align="left" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/bash/bash-plain.svg" />
+<img align="left" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/aleister888/freeBSD-dotfiles/master/img/freebsd-logo.png" />
+<img align="left" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/2/22/Puffy-openbsd.gif" />
+<img align="left" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
+<img align="left" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Archlinux-icon-crystal-64.svg" />
+<img align="left" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/0/02/Void_Linux_logo.svg" />
+<img align="left" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/debian/debian-original.svg" />
+<br />
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aleister888&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="aleister888" /></p>
 
