@@ -5,7 +5,8 @@
 
 <p align="center">📫 My mail contact: </p>
 
-``aleister888@cock.li`` | **pacoe1000@protonmail.com**
+- [cock.li](mailto:aleister888@cock.li)
+- [protonmail](mailto:pacoe1000@protonmail.com)
 
 <h3 align="center">Languages and OS's:</h3>
 <p align="center"> </a> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/latex/latex-original.svg" width="100" height="80"/>
