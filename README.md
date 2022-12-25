@@ -15,6 +15,5 @@
 </a> <img src="https://upload.wikimedia.org/wikipedia/commons/0/02/Void_Linux_logo.svg" width="80" height="80"/>
 </a> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/debian/debian-original.svg" width="80" height="80"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aleister888&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="aleister888" /></p>
-
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=aleister888&show_icons=true&locale=en&theme=tokyonight" alt="aleister888" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aleister888&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="aleister888" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aleister888&show_icons=true&locale=en&theme=tokyonight" alt="aleister888" /></p>
