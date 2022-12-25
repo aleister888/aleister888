@@ -12,7 +12,7 @@
 
 [<img align="left" width="60px" height="60px" style="padding-right:10px;" src="https://raw.githubusercontent.com/aleister888/aleister888/main/img/bash.png" />](https://www.gnu.org/software/bash/)
 [<img align="left" width="60px" height="60px" style="padding-right:10px;" src="https://raw.githubusercontent.com/aleister888/freeBSD-dotfiles/master/img/freebsd-logo.png" />](https://www.freebsd.org/)
-[<img align="left" width="60px" height="60px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/2/22/Puffy-openbsd.gif" />](https://www.openbsd.org/)
+[<img align="left" width="70px" height="60px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/2/22/Puffy-openbsd.gif" />](https://www.openbsd.org/)
 [<img align="left" width="60px" height="60px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/)
 [<img align="left" width="60px" height="60px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Archlinux-icon-crystal-64.svg" />](https://archlinux.org/)
 [<img align="left" width="70px" height="60px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/0/02/Void_Linux_logo.svg" />](https://voidlinux.org/)
