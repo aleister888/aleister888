@@ -1,13 +1,12 @@
-
-# 🐢 aleister888
+# aleister888
 
 **`Just daily driving Linux and OpenBSD`**
 
-- 📫 My mail contact:
-  - [cock.li](mailto:aleister888@cock.li)
-  - [protonmail](mailto:pacoe1000@protonmail.com)
-- 🔭 Currently working on scripts to auto-install dotfiles
-- 🎸 Fun fact: I play guitar, [mainly this kind of stuff](https://yewtu.be/watch?v=PbUDOO4f0rc)
+- My mail contact:
+	- [cock.li](mailto:aleister888@cock.li)
+	- [protonmail](mailto:pacoe1000@protonmail.com)
+	- Currently working on scripts to auto-install dotfiles
+	- Fun fact: I play guitar, [mainly this kind of stuff](https://yewtu.be/watch?v=PbUDOO4f0rc)
 
  ## 🧰 Languages and OS's
 
@@ -23,7 +22,9 @@
 <br />
 <br />
 
-## ⚡ GitHub Stats
+---
+
+### ⚡ GitHub Stats
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aleister888&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="aleister888" /></p>
 
