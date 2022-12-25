@@ -26,4 +26,4 @@
 
 ### ⚡ GitHub Stats
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aleister888&show_icons=true&locale=en&theme=tokyonight" href="aleister888" /></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=aleister888&show_icons=true&locale=en&theme=tokyonight" href="aleister888" />
