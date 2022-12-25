@@ -6,7 +6,8 @@
 - 📫 My mail contact:
   - [cock.li](mailto:aleister888@cock.li)
   - [protonmail](mailto:pacoe1000@protonmail.com)
-- 🔭 Currently working on scripts to auto-install all my dotfiles in different distros and OS's
+- 🔭 Currently working on scripts to auto-install dotfiles
+- 
 
  ## 🧰 Languages and OS's
 
