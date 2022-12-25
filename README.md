@@ -7,6 +7,8 @@
   - [cock.li](mailto:aleister888@cock.li)
   - [protonmail](mailto:pacoe1000@protonmail.com)
 
+---
+
 ### 🧰 Languages and OS's
 
 <img align="left" width="60px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/latex/latex-original.svg"/>
