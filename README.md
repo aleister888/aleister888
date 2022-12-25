@@ -7,7 +7,7 @@
   - [cock.li](mailto:aleister888@cock.li)
   - [protonmail](mailto:pacoe1000@protonmail.com)
 - 🔭 Currently working on scripts to auto-install dotfiles
-- ⚡ Fun fact: I play guitar, [mainly this kind of stuff](https://yewtu.be/watch?v=PbUDOO4f0rc)
+- 🎸 Fun fact: I play guitar, [mainly this kind of stuff](https://yewtu.be/watch?v=PbUDOO4f0rc)
 
  ## 🧰 Languages and OS's
 
