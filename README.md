@@ -8,7 +8,7 @@
 - 🌈 Currently working on scripts to auto-install dotfiles
 - 🎸 Fun fact: I play guitar, [mainly this kind of stuff](https://www.youtube.com/watch?v=PbUDOO4f0rc)
 
- ## 🧰 OS's I daily drive and know
+ ## 🧰 OS's I've used and know
 
 [<img align="left" href="FreeBSD" width="40px" height="40px" style="padding-right:10px;" src="https://raw.githubusercontent.com/aleister888/freeBSD-dotfiles/master/img/freebsd-logo.png" />](https://www.freebsd.org/)
 [<img align="left" href="OpenBSD" width="45px" height="40px" style="padding-right:10px;" src="https://raw.githubusercontent.com/aleister888/aleister888/main/img/openbsd.png" />](https://www.openbsd.org/)
