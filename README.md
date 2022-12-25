@@ -13,6 +13,7 @@
 [<img align="left" href="FreeBSD" width="40px" height="40px" style="padding-right:10px;" src="https://raw.githubusercontent.com/aleister888/freeBSD-dotfiles/master/img/freebsd-logo.png" />](https://www.freebsd.org/)
 [<img align="left" href="OpenBSD" width="45px" height="40px" style="padding-right:10px;" src="https://raw.githubusercontent.com/aleister888/aleister888/main/img/openbsd.png" />](https://www.openbsd.org/)
 [<img align="left" href="Arch Linux" width="40px" height="40px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Archlinux-icon-crystal-64.svg" />](https://archlinux.org/)
+[<img align="left" href="Artix Linux" width="40px" height="40px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/8/8b/Artix_Linux_logo.svg" />](https://artixlinux.org/)
 [<img align="left" href="Void Linux" width="45px" height="40px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/0/02/Void_Linux_logo.svg" />](https://voidlinux.org/)
 [<img align="left" href="Debian Linux" width="40px" height="40px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/debian/debian-original.svg" />](https://www.debian.org/)
 
