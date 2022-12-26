@@ -10,7 +10,7 @@
 
  ## 🧰 OS's I've used and know
 
-[<img align="left" href="OpenBSD" width="45px" height="40px" style="padding-right:10px;" src="https://raw.githubusercontent.com/aleister888/aleister888/main/img/openbsd.png" />](https://www.openbsd.org/)
+[<img align="left" href="OpenBSD" width="50px" height="40px" style="padding-right:10px;" src="https://raw.githubusercontent.com/aleister888/aleister888/main/img/openbsd.png" />](https://www.openbsd.org/)
 [<img align="left" href="FreeBSD" width="40px" height="40px" style="padding-right:10px;" src="https://raw.githubusercontent.com/aleister888/freeBSD-dotfiles/master/img/freebsd-logo.png" />](https://www.freebsd.org/)
 [<img align="left" href="GhostBSD" width="40px" height="40px" style="padding-right:10px;" src="https://raw.githubusercontent.com/aleister888/aleister888/main/img/ghostbsd.png" />](https://www.ghostbsd.org/)
 [<img align="left" href="Arch Linux" width="40px" height="40px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Archlinux-icon-crystal-64.svg" />](https://archlinux.org/)
