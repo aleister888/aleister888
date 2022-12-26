@@ -24,12 +24,12 @@
 
 [<img align="left" title="OpenBSD" width="50px" height="40px" style="padding-right:10px;" src="https://raw.githubusercontent.com/aleister888/aleister888/main/img/openbsd.png" />](https://www.openbsd.org/)
 [<img align="left" title="FreeBSD" width="40px" height="40px" style="padding-right:10px;" src="https://raw.githubusercontent.com/aleister888/freeBSD-dotfiles/master/img/freebsd-logo.png" />](https://www.freebsd.org/)
-[<img align="left" title="Artix Linux" width="40px" height="40px" style="padding-right:10px;" src="https://raw.githubusercontent.com/aleister888/aleister888/be8fa34a4655355da2ef64f42483f1cc98dc15f0/img/artix.svg" />](https://artixlinux.org/)
-[<img align="left" title="Arch Linux" width="40px" height="40px" style="padding-right:10px;" src="https://raw.githubusercontent.com/aleister888/aleister888/be8fa34a4655355da2ef64f42483f1cc98dc15f0/img/arch.svg" />](https://archlinux.org/)
-[<img align="left" title="popOS" width="40px" height="40px" style="padding-right:10px;" src="https://raw.githubusercontent.com/aleister888/aleister888/main/img/popos.png" />](https://pop.system76.com/)
+[<img align="left" title="Artix Linux and Arch based distros" width="40px" height="40px" style="padding-right:10px;" src="https://raw.githubusercontent.com/aleister888/aleister888/be8fa34a4655355da2ef64f42483f1cc98dc15f0/img/artix.svg" />](https://artixlinux.org/)
+
+[<img align="left" title="popOS and Ubuntu based distros" width="40px" height="40px" style="padding-right:10px;" src="https://raw.githubusercontent.com/aleister888/aleister888/main/img/popos.png" />](https://pop.system76.com/)
 [<img align="left" title="Void Linux" width="40px" height="40px" style="padding-right:10px;" src="https://raw.githubusercontent.com/aleister888/aleister888/main/img/void.png" />](https://voidlinux.org/)
 [<img align="left" title="GhostBSD" width="40px" height="40px" style="padding-right:10px;" src="https://raw.githubusercontent.com/aleister888/aleister888/main/img/ghostbsd.png" />](https://www.ghostbsd.org/)
-[<img align="left" title="Debian Linux" width="40px" height="40px" style="padding-right:10px;" src="https://raw.githubusercontent.com/aleister888/aleister888/main/img/debian.png" />](https://www.debian.org/)
+[<img align="left" title="Debian Linux and Debian based distros" width="40px" height="40px" style="padding-right:10px;" src="https://raw.githubusercontent.com/aleister888/aleister888/main/img/debian.png" />](https://www.debian.org/)
 
 <br />
 
