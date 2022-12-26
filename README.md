@@ -15,7 +15,7 @@
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/aleister888?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
   <a href="https://github.com/aleister888?tab=repositories&sort=stargazers">
   <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/aleister888?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-  [<img alt="my repos" title="aleister888 github repos" src="https://custom-icon-badges.demolab.com/badge/-My%20Repos-yellow?style=for-the-badge&logoColor=white&logo=repo"/>](https://github.com/aleister888?tab=repositories)
+  [<img alt="my repos" title="aleister888 github repos" src="https://custom-icon-badges.demolab.com/badge/-OpenBSD%20Dotfiles-yellow?style=for-the-badge&logoColor=white&logo=github"/>](https://github.com/aleister888/openBSD-dotfiles)
    </p>
 
  ## 🧰 OS's I've used and know
