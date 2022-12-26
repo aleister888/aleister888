@@ -2,7 +2,7 @@
 
 **`Just daily driving Linux and OpenBSD`**
 
-*What I do: Scripting and using \*NIX's*
+*What I do: Scripting and using \*NIX like OS's*
 
 - ✉️ My mail contact:
 	- [cock.li](mailto:aleister888@cock.li)
