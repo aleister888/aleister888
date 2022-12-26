@@ -38,3 +38,9 @@
 ### ⚡ GitHub Stats
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=aleister888&show_icons=true&locale=en&theme=tokyonight" title="aleister888 GitHub Stats" />
+
+#
+
+<details>
+ <summary><h3>👨‍💻 Coding Journey</h3></summary>
+   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
