@@ -1,6 +1,6 @@
 # 🐢 aleister888
 
-**`Just daily driving Linux and OpenBSD`**
+**`Just daily driving Linux and OpenBSD`** **Scripting**
 
 - ✉️ My mail contact:
 	- [cock.li](mailto:aleister888@cock.li)
