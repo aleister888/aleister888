@@ -12,7 +12,7 @@
 
 [<img align="left" href="OpenBSD" width="45px" height="40px" style="padding-right:10px;" src="https://raw.githubusercontent.com/aleister888/aleister888/main/img/openbsd.png" />](https://www.openbsd.org/)
 [<img align="left" href="FreeBSD" width="40px" height="40px" style="padding-right:10px;" src="https://raw.githubusercontent.com/aleister888/freeBSD-dotfiles/master/img/freebsd-logo.png" />](https://www.freebsd.org/)
-[<img align="left" href="GhostBSD" width="40px" height="40px" style="padding-right:10px;" src="https://raw.githubusercontent.com/aleister888/aleister888/00907779158bec87b4f91cf23f372b4bed146853/img/ghostbsd.svg" />](https://www.ghostbsd.org/)
+[<img align="left" href="GhostBSD" width="40px" height="40px" style="padding-right:10px;" src="https://raw.githubusercontent.com/aleister888/aleister888/00907779158bec87b4f91cf23f372b4bed146853/img/ghostbsd.png" />](https://www.ghostbsd.org/)
 [<img align="left" href="Arch Linux" width="40px" height="40px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Archlinux-icon-crystal-64.svg" />](https://archlinux.org/)
 [<img align="left" href="Artix Linux" width="40px" height="40px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/7/70/Artix_logo.svg" />](https://artixlinux.org/)
 [<img align="left" href="Void Linux" width="45px" height="40px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/0/02/Void_Linux_logo.svg" />](https://voidlinux.org/)
