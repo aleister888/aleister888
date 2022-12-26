@@ -7,7 +7,6 @@
 	- [protonmail](mailto:pacoe1000@protonmail.com)
 - 🌈 Currently working on scripts to auto-install dotfiles
 - 🎸 Fun fact: I play guitar, [mainly this kind of stuff](https://www.youtube.com/watch?v=PbUDOO4f0rc)
-https://www.youtube.com/channel/UCFhPypFuV_BMAeP71kgbznQ
 
 <p align="left">
 
