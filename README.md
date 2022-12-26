@@ -33,9 +33,7 @@
 
 <br />
 
-#
-
-### ⚡ GitHub Stats
+## ⚡ GitHub Stats
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=aleister888&show_icons=true&locale=en&theme=tokyonight" title="aleister888 GitHub Stats" />
 
