@@ -10,9 +10,7 @@
 https://www.youtube.com/channel/UCFhPypFuV_BMAeP71kgbznQ
 
 <p align="left">
-
   [<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/c/UCFhPypFuV_BMAeP71kgbznQ?sub_confirmation=1)
-
   <a href="https://github.com/ForrestKnight?tab=followers">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ForrestKnight?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
   <a href="https://github.com/ForrestKnight?tab=repositories&sort=stargazers">
