@@ -1,8 +1,8 @@
 # 🐢 aleister888
 
-- ✉️ My mail contact:
+- 📬 My mail contact:
 	- [protonmail](mailto:pacoe1000@protonmail.com)
-	- [cock.li](mailto:aleister888@cock.li)
+	- [gmail](mailto:pacoe1000@gmail.com)
 
 # 👨‍💻 Coding Journey
 
